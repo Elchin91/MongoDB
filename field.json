@@ -1,0 +1,135 @@
+[
+  {
+    "_id": 1,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "statusDetails",
+    "fieldType": "{typeName=SELECT}",
+    "sortable": true
+  },
+  {
+    "_id": 2,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "agent",
+    "fieldType": "{typeName=SELECT}",
+    "sortable": true
+  },
+  {
+    "_id": 3,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "createdDate",
+    "fieldType": "{typeName=DATETIME_RANGE}",
+    "sortable": true
+  },
+  {
+    "_id": 4,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "enterQueueDate",
+    "fieldType": "{typeName=DATETIME_RANGE}",
+    "sortable": true
+  },
+  {
+    "_id": 5,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "startDate",
+    "fieldType": "{typeName=DATETIME_RANGE}",
+    "sortable": true
+  },
+  {
+    "_id": 6,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "completeDate",
+    "fieldType": "{typeName=DATETIME_RANGE}",
+    "sortable": true
+  },
+  {
+    "_id": 8,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "omniChannelId",
+    "fieldType": "{typeName=TEXT}",
+    "sortable": true
+  },
+  {
+    "_id": 9,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "number",
+    "fieldType": "{typeName=TEXT}",
+    "sortable": false
+  },
+  {
+    "_id": 10,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "queueWaitTime",
+    "fieldType": "{typeName=TIME_RANGE}",
+    "sortable": false
+  },
+  {
+    "_id": 12,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "queueName",
+    "fieldType": "{typeName=SELECT}",
+    "sortable": true
+  },
+  {
+    "_id": 13,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "communicationType",
+    "fieldType": "{typeName=SELECT}",
+    "sortable": true
+  },
+  {
+    "_id": 14,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "durationTime",
+    "fieldType": "{typeName=TIME_RANGE}",
+    "sortable": true
+  },
+  {
+    "_id": 15,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "type",
+    "fieldType": "{typeName=SELECT}",
+    "sortable": false
+  },
+  {
+    "_id": 18,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "showAll",
+    "fieldType": "{typeName=CHECKBOX}",
+    "sortable": false
+  },
+  {
+    "_id": 16,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "surveyPoint",
+    "fieldType": "{typeName=SELECT}",
+    "sortable": false
+  },
+  {
+    "_id": 17,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "holdTime",
+    "fieldType": "{typeName=TIME_RANGE}",
+    "sortable": false
+  },
+  {
+    "_id": 19,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "topics",
+    "fieldType": "{typeName=SELECT}",
+    "sortable": false
+  },
+  {
+    "_id": 20,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "socialMediaName",
+    "fieldType": "{typeName=TEXT}",
+    "sortable": false
+  },
+  {
+    "_id": 29,
+    "_class": "az.kibrit.profile.document.Field",
+    "fieldName": "talkDuration",
+    "fieldType": "{typeName=TIME_RANGE}",
+    "sortable": true
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "_id": "6",
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": "1",
+    "availableForAgents": "NO",
+    "name": "Waiting",
+    "type": "Universal"
+  },
+  {
+    "_id": "7",
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": "1",
+    "availableForAgents": "YES",
+    "name": "Tamamlanmış",
+    "type": "Universal"
+  },
+  {
+    "_id": "8",
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": "1",
+    "availableForAgents": "YES",
+    "name": "Active",
+    "type": "Universal"
+  },
+  {
+    "_id": "9",
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": "1",
+    "availableForAgents": "YES",
+    "name": "Tamamlanmamış",
+    "type": "Universal"
+  },
+  {
+    "_id": "10",
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": "1",
+    "availableForAgents": "YES",
+    "name": "Texniki xəta",
+    "type": "Universal"
+  },
+  {
+    "_id": "11",
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": "1",
+    "availableForAgents": "YES",
+    "name": "Əsassız müraciət",
+    "type": "Universal"
+  },
+  {
+    "_id": "12",
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": "1",
+    "availableForAgents": "YES",
+    "name": "Düzəliş olunmuşdur",
+    "type": "Universal"
+  },
+  {
+    "_id": "13",
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": "1",
+    "availableForAgents": "YES",
+    "name": "Əlaqə kəsildi",
+    "type": "Call"
+  },
+  {
+    "_id": "14",
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": "1",
+    "availableForAgents": "YES",
+    "name": "Zəng çatmır",
+    "type": "Call"
+  },
+  {
+    "_id": "15",
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": "1",
+    "availableForAgents": "NO",
+    "name": "İtirilmiş müraciət",
+    "type": "Universal"
+  },
+  {
+    "_id": 16,
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": 1,
+    "availableForAgents": "YES",
+    "name": "Yeni",
+    "type": "Universal"
+  },
+  {
+    "_id": 17,
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": 1,
+    "availableForAgents": "YES",
+    "name": "Active",
+    "type": "Universal"
+  },
+  {
+    "_id": 18,
+    "_class": "az.kibrit.profile.document.StatusDetails",
+    "active": 1,
+    "availableForAgents": "YES",
+    "name": "Waiting",
+    "type": "Universal"
+  }
+]
